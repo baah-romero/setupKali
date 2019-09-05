@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ..
 mkdir Repos
 cd Repos
 git clone https://github.com/baah-romero/hybridPasswordCracker.git &
