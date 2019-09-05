@@ -2,11 +2,11 @@
 cd ..
 mkdir ./Repos
 cd ./Repos
-git clone https://github.com/baah-romero/hybridPasswordCracker.git &
+git clone https://github.com/baah-romero/hybridPasswordCracker.git 
 echo "|-[+] Clonado Repositorio HybridPasswordCracker"
-git clone https://github.com/baah-romero/configKali.git &
+git clone https://github.com/baah-romero/configKali.git 
 echo "|-[+] Clonado Repositorio configKali"
-cd configKali
+cd ./configKali
 chmod +x installDocker.sh
 chmod +x installNMAPvulns.sh
 echo "|--> Instalando Docker!!"
