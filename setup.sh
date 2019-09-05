@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ..
-mkdir Repos
-cd Repos
+mkdir ./Repos
+cd ./Repos
 git clone https://github.com/baah-romero/hybridPasswordCracker.git &
 echo "|-[+] Clonado Repositorio HybridPasswordCracker"
 git clone https://github.com/baah-romero/configKali.git &
