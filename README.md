@@ -1,8 +1,8 @@
 # setupKali
-Repository with setup.sh to Configure Kali Linux<br>
-&nbsp;<b>[ESP]</b><br>
-<h2>VERSIÓN</H2><br>
-<b>|--[09/2019]&nbsp;Primera publicación del script.</b><br>
+Repository with setup.sh to Configure Kali Linux<br><br><br>
+&nbsp;<b>[ESP]</b>
+<h2>VERSIÓN</H2>
+<b>|--[09/2019]&nbsp;Primera publicación del script.</b>
 <h2>DESCARGO DE RESPONSABILIDAD</H2>
 Como autor de este material, no me hago responsable de cualquier uso indebido que se haga de esta información y/o herramienta. Para la mayoría de las pruebas se requiere autorización legal por escrito del propietario del activo sobre el que se realice la prueba.
 La herramienta ha sido diseñada y programada para generar diccionarios y usarlos en ataques hybridos de contraseña.
@@ -22,7 +22,7 @@ The code from the file has been written for the owner of that repository.
     <li><b>The script was developed in BASH.</b></li>
 </ol>
 
-<h2>HOW TO USE:</H2>
+<h2>HOW TO USE:</h2>
 <ol>
     <li>Clone the repository: git clone https://github.com/baah-romero/setupKali.git</li>
     <li>Access to the repository: cd setupKali</li>
